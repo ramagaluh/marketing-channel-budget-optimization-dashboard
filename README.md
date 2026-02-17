@@ -1,5 +1,5 @@
 ![Marketing Channel Dependency and Budget Allocation Diagnostic (2024)](screenshots/cover-banner.png)
-## Credit Card Customer Attrition: Diagnostic and Early Warning Analysis
+## Marketing Channel Dependency and Budget Allocation Diagnostic (2024)
 
 ### Business Question
 #### Are marketing budgets allocated efficiently across channels, and where should spend be shifted to improve returns?
